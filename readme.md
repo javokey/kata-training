@@ -1,1 +1,1 @@
-## Welcome to my Hub of Katas! (Previously ade in Codewars)
+## Welcome to my Hub of Katas! (Previously made in Codewars)
